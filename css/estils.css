@@ -1,0 +1,82 @@
+/* Estils web */
+
+body{
+	background-color:#DDD;
+}
+
+#contenidor{
+	background-color:#FFF;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	margin-bottom:5px;
+	}
+#menu{
+	background-color:#CCF;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid blue 1px;
+	margin-bottom:5px;
+	}
+#menu ul{
+	background-color:#CCC;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid blue 1px;
+	}
+#menu ul li{
+	background-color:#FFF;
+	list-style-type:none;
+	display:inline-block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid blue 1px;
+}
+
+
+#principal{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	margin-bottom:5px;
+	}
+#peu{
+	width:80%;
+	background-color:#88F;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+.imatge{
+	width:200px;
+}
+.imatgealumne{
+	width:600px;
+}
+.imatgefoto{
+	width:700px;
+}
